@@ -8,4 +8,4 @@ spring:
     name: client
 server:
   port: 8080
-evn: master-dev
+evn: master
